@@ -1,7 +1,6 @@
 package model.calculators;
 
 import java.util.Map;
-import java.util.stream.DoubleStream;
 import java.util.stream.LongStream;
 
 import utils.CCBinaryOperator;
